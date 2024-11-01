@@ -1,5 +1,3 @@
-# Todo-app
-
 # Todo App
 
 This is a simple Todo App built with a Laravel backend and a React frontend. Users can manage todos with associated user details (firstname, lastname, and email).
