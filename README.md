@@ -13,7 +13,7 @@ This is a simple Todo App built with a Laravel backend and a React frontend. Use
 
 ## Technologies Used
 
-- **Backend:** Laravel 9.x
+- **Backend:** Laravel 11.x
 - **Frontend:** React 18.x
 - **Database:** MySQL
 - **HTTP Client:** Axios (for frontend)
